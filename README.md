@@ -18,4 +18,6 @@ Make sure you have a space after periods at the end of a sentece(except for the 
 Hope it'll help you in some way
 
 # Also
-Feel free to steal anything from that program lol
+Feel free to steal anything from that program 
+
+Also imported from one of my older github accounts
