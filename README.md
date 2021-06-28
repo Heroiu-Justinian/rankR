@@ -4,8 +4,11 @@ Analyze a text and find out it's complexity(in terms of grade levels),number of 
 
 # Use (for dummies)
 1.In a terminal cd into the directory in wich the program is stored
+
 2.Compile the program using "make rankR"
+
 3.Execute the program using "./rankR"
+
 4.You will be prompted to introduce a text.Paste the text into the terminal and press enter
 
 # Note:
